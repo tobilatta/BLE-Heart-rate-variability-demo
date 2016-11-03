@@ -1,0 +1,117 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Risky Project Location:
+-----------------------
+The tools *should* handle project locations in any directory. However,
+due to bugs, placing projects in directories containing spaces in the
+path, or characters like ", ' and &, have had issues. We're working to
+eliminate these bugs, but to save yourself headaches you may want to
+move your project to a location where this is not a problem.
+C:\Users\Petrik K\Documents\GitHub\DynLicht\importedVersion
+               -                                           
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .gitignore
+* LICENSE
+* README.md
+* ic_launcher-web.png
+* importedVersion\
+* importedVersion\.idea\
+* importedVersion\.idea\.name
+* importedVersion\.idea\compiler.xml
+* importedVersion\.idea\copyright\
+* importedVersion\.idea\copyright\profiles_settings.xml
+* importedVersion\.idea\misc.xml
+* importedVersion\.idea\workspace.xml
+* importedVersion\app\
+* importedVersion\app\build.gradle
+* importedVersion\app\src\
+* importedVersion\app\src\main\
+* importedVersion\app\src\main\AndroidManifest.xml
+* importedVersion\app\src\main\java\
+* importedVersion\app\src\main\java\com\
+* importedVersion\app\src\main\java\com\sample\
+* importedVersion\app\src\main\java\com\sample\hrv\
+* importedVersion\app\src\main\java\com\sample\hrv\BleService.java
+* importedVersion\app\src\main\java\com\sample\hrv\BluetoothGattExecutor.java
+* importedVersion\app\src\main\java\com\sample\hrv\DeviceScanActivity.java
+* importedVersion\app\src\main\java\com\sample\hrv\DeviceServicesActivity.java
+* importedVersion\app\src\main\java\com\sample\hrv\adapters\
+* importedVersion\app\src\main\java\com\sample\hrv\adapters\BleDevicesAdapter.java
+* importedVersion\app\src\main\java\com\sample\hrv\adapters\BleServicesAdapter.java
+* importedVersion\app\src\main\java\com\sample\hrv\demo\
+* importedVersion\app\src\main\java\com\sample\hrv\demo\DemoGLSurfaceView.java
+* importedVersion\app\src\main\java\com\sample\hrv\demo\DemoHeartRateSensorActivity.java
+* importedVersion\app\src\main\java\com\sample\hrv\demo\DemoSensorActivity.java
+* importedVersion\app\src\main\java\com\sample\hrv\info\
+* importedVersion\app\src\main\java\com\sample\hrv\info\BleDeviceInfoService.java
+* importedVersion\app\src\main\java\com\sample\hrv\info\BleGapService.java
+* importedVersion\app\src\main\java\com\sample\hrv\info\BleGattService.java
+* importedVersion\app\src\main\java\com\sample\hrv\info\BleInfoService.java
+* importedVersion\app\src\main\java\com\sample\hrv\info\BleInfoServices.java
+* importedVersion\app\src\main\java\com\sample\hrv\sensor\
+* importedVersion\app\src\main\java\com\sample\hrv\sensor\BleHeartRateSensor.java
+* importedVersion\app\src\main\java\com\sample\hrv\sensor\BleSensor.java
+* importedVersion\app\src\main\java\com\sample\hrv\sensor\BleSensorUtils.java
+* importedVersion\app\src\main\java\com\sample\hrv\sensor\BleSensors.java
+* importedVersion\app\src\main\java\com\sample\hrv\sensor\BleTestSensor.java
+* importedVersion\app\src\main\res\
+* importedVersion\app\src\main\res\drawable-hdpi\
+* importedVersion\app\src\main\res\drawable-hdpi\ic_launcher.png
+* importedVersion\app\src\main\res\drawable-mdpi\
+* importedVersion\app\src\main\res\drawable-mdpi\ic_launcher.png
+* importedVersion\app\src\main\res\drawable-xhdpi\
+* importedVersion\app\src\main\res\drawable-xhdpi\ic_launcher.png
+* importedVersion\app\src\main\res\drawable-xxhdpi\
+* importedVersion\app\src\main\res\drawable-xxhdpi\ic_launcher.png
+* importedVersion\app\src\main\res\layout\
+* importedVersion\app\src\main\res\layout\actionbar_indeterminate_progress.xml
+* importedVersion\app\src\main\res\layout\demo_opengl.xml
+* importedVersion\app\src\main\res\layout\gatt_services_characteristics.xml
+* importedVersion\app\src\main\res\layout\listitem_characteristic.xml
+* importedVersion\app\src\main\res\layout\listitem_device.xml
+* importedVersion\app\src\main\res\layout\listitem_service.xml
+* importedVersion\app\src\main\res\menu\
+* importedVersion\app\src\main\res\menu\gatt_scan.xml
+* importedVersion\app\src\main\res\menu\gatt_services.xml
+* importedVersion\app\src\main\res\values\
+* importedVersion\app\src\main\res\values\strings.xml
+* importedVersion\build.gradle
+* importedVersion\gradle\
+* importedVersion\gradle\wrapper\
+* importedVersion\gradle\wrapper\gradle-wrapper.jar
+* importedVersion\gradle\wrapper\gradle-wrapper.properties
+* importedVersion\gradlew
+* importedVersion\gradlew.bat
+* importedVersion\local.properties
+* importedVersion\settings.gradle
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app\src\main\AndroidManifest.xml
+* res\ => app\src\main\res\
+* src\ => app\src\main\java\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)
