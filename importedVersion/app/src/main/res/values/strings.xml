@@ -13,18 +13,24 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
+
+<!--String.xml sind alle Standard-Strings, die im Programmverlauf benötigt werden
+Es wird bei Ablauf, bzw. im Code auf diese Strings verwiesen (siehe Beispiel AndroidManifest.xml-> Appname -->
+
+
 <resources>
-    <string name="app_name">BLE HRV demo</string>
+    <!--Dynamische Steuerung - LichtPulse-->
+    <string name="app_name">DynLiCo</string>
     <string name="ble_not_supported">Bluetooth LE is not supported</string>
     <string name="label_data">Data:</string>
-        <string name="label_heartrate">Heart rate:</string>
+        <string name="label_heartrate">Heartrate:</string>
     <string name="label_device_address">Device address:</string>
     <string name="label_state">State:</string>
     <string name="label_services">Services</string>
     <string name="no_data">No data</string>
     <string name="connected">Connected</string>
     <string name="disconnected">Disconnected</string>
-    <string name="title_devices">Bluetooth LE Device Scan</string>
+    <string name="title_devices">DynLiCo</string>
     <string name="error_bluetooth_not_supported">Bluetooth not supported.</string>
 
     <string name="action_demo">Demo</string>

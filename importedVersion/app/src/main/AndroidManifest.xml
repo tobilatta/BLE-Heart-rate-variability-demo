@@ -46,3 +46,7 @@ limitations under the License.
         <service android:name="com.sample.hrv.BleService" android:enabled="true"/>
     </application>
 </manifest>
+
+
+<!--ToDo für Peddy und Tobi
+        -MainActivity erstellen, au-->

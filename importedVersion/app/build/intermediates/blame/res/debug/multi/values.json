@@ -11,14 +11,7 @@
                     "endOffset": 95
                 },
                 "from": {
-                    "file": "C:\\Users\\Tobi\\Documents\\GitHub\\DynLicht\\importedVersion\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 29,
-                        "startColumn": 4,
-                        "startOffset": 1407,
-                        "endColumn": 44,
-                        "endOffset": 1447
-                    }
+                    "file": "C:\\Users\\Tobi\\Documents\\GitHub\\DynLicht\\importedVersion\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
@@ -26,17 +19,17 @@
                     "startLine": 3,
                     "startColumn": 4,
                     "startOffset": 100,
-                    "endColumn": 49,
-                    "endOffset": 145
+                    "endColumn": 44,
+                    "endOffset": 140
                 },
                 "from": {
                     "file": "C:\\Users\\Tobi\\Documents\\GitHub\\DynLicht\\importedVersion\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
-                        "startLine": 16,
+                        "startLine": 22,
                         "startColumn": 4,
-                        "startOffset": 702,
-                        "endColumn": 49,
-                        "endOffset": 747
+                        "startOffset": 949,
+                        "endColumn": 44,
+                        "endOffset": 989
                     }
                 }
             },
@@ -44,341 +37,222 @@
                 "to": {
                     "startLine": 4,
                     "startColumn": 4,
-                    "startOffset": 150,
+                    "startOffset": 145,
                     "endColumn": 75,
-                    "endOffset": 221
+                    "endOffset": 216
                 },
                 "from": {
-                    "file": "C:\\Users\\Tobi\\Documents\\GitHub\\DynLicht\\importedVersion\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 17,
-                        "startColumn": 4,
-                        "startOffset": 753,
-                        "endColumn": 75,
-                        "endOffset": 824
-                    }
+                    "file": "C:\\Users\\Tobi\\Documents\\GitHub\\DynLicht\\importedVersion\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 5,
                     "startColumn": 4,
-                    "startOffset": 226,
+                    "startOffset": 221,
                     "endColumn": 47,
-                    "endOffset": 269
+                    "endOffset": 264
                 },
                 "from": {
-                    "file": "C:\\Users\\Tobi\\Documents\\GitHub\\DynLicht\\importedVersion\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 24,
-                        "startColumn": 4,
-                        "startOffset": 1149,
-                        "endColumn": 47,
-                        "endOffset": 1192
-                    }
+                    "file": "C:\\Users\\Tobi\\Documents\\GitHub\\DynLicht\\importedVersion\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 6,
                     "startColumn": 4,
-                    "startOffset": 274,
+                    "startOffset": 269,
                     "endColumn": 53,
-                    "endOffset": 323
+                    "endOffset": 318
                 },
                 "from": {
-                    "file": "C:\\Users\\Tobi\\Documents\\GitHub\\DynLicht\\importedVersion\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 25,
-                        "startColumn": 4,
-                        "startOffset": 1198,
-                        "endColumn": 53,
-                        "endOffset": 1247
-                    }
+                    "file": "C:\\Users\\Tobi\\Documents\\GitHub\\DynLicht\\importedVersion\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 7,
                     "startColumn": 4,
-                    "startOffset": 328,
+                    "startOffset": 323,
                     "endColumn": 82,
-                    "endOffset": 406
+                    "endOffset": 401
                 },
                 "from": {
-                    "file": "C:\\Users\\Tobi\\Documents\\GitHub\\DynLicht\\importedVersion\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 27,
-                        "startColumn": 4,
-                        "startOffset": 1321,
-                        "endColumn": 82,
-                        "endOffset": 1399
-                    }
+                    "file": "C:\\Users\\Tobi\\Documents\\GitHub\\DynLicht\\importedVersion\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 8,
                     "startColumn": 4,
-                    "startOffset": 411,
+                    "startOffset": 406,
                     "endColumn": 44,
-                    "endOffset": 451
+                    "endOffset": 446
                 },
                 "from": {
-                    "file": "C:\\Users\\Tobi\\Documents\\GitHub\\DynLicht\\importedVersion\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 18,
-                        "startColumn": 4,
-                        "startOffset": 830,
-                        "endColumn": 44,
-                        "endOffset": 870
-                    }
+                    "file": "C:\\Users\\Tobi\\Documents\\GitHub\\DynLicht\\importedVersion\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 9,
                     "startColumn": 4,
-                    "startOffset": 456,
+                    "startOffset": 451,
                     "endColumn": 64,
-                    "endOffset": 516
+                    "endOffset": 511
                 },
                 "from": {
-                    "file": "C:\\Users\\Tobi\\Documents\\GitHub\\DynLicht\\importedVersion\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 20,
-                        "startColumn": 4,
-                        "startOffset": 937,
-                        "endColumn": 64,
-                        "endOffset": 997
-                    }
+                    "file": "C:\\Users\\Tobi\\Documents\\GitHub\\DynLicht\\importedVersion\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 10,
                     "startColumn": 4,
-                    "startOffset": 521,
+                    "startOffset": 516,
                     "endColumn": 55,
-                    "endOffset": 572
+                    "endOffset": 567
                 },
                 "from": {
-                    "file": "C:\\Users\\Tobi\\Documents\\GitHub\\DynLicht\\importedVersion\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 19,
-                        "startColumn": 8,
-                        "startOffset": 880,
-                        "endColumn": 59,
-                        "endOffset": 931
-                    }
+                    "file": "C:\\Users\\Tobi\\Documents\\GitHub\\DynLicht\\importedVersion\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 11,
                     "startColumn": 4,
-                    "startOffset": 577,
+                    "startOffset": 572,
                     "endColumn": 51,
-                    "endOffset": 624
+                    "endOffset": 619
                 },
                 "from": {
-                    "file": "C:\\Users\\Tobi\\Documents\\GitHub\\DynLicht\\importedVersion\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 22,
-                        "startColumn": 4,
-                        "startOffset": 1051,
-                        "endColumn": 51,
-                        "endOffset": 1098
-                    }
+                    "file": "C:\\Users\\Tobi\\Documents\\GitHub\\DynLicht\\importedVersion\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 12,
                     "startColumn": 4,
-                    "startOffset": 629,
+                    "startOffset": 624,
                     "endColumn": 46,
-                    "endOffset": 671
+                    "endOffset": 666
                 },
                 "from": {
-                    "file": "C:\\Users\\Tobi\\Documents\\GitHub\\DynLicht\\importedVersion\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 21,
-                        "startColumn": 4,
-                        "startOffset": 1003,
-                        "endColumn": 46,
-                        "endOffset": 1045
-                    }
+                    "file": "C:\\Users\\Tobi\\Documents\\GitHub\\DynLicht\\importedVersion\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 13,
                     "startColumn": 4,
-                    "startOffset": 676,
+                    "startOffset": 671,
                     "endColumn": 48,
-                    "endOffset": 720
+                    "endOffset": 715
                 },
                 "from": {
-                    "file": "C:\\Users\\Tobi\\Documents\\GitHub\\DynLicht\\importedVersion\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 40,
-                        "startColumn": 4,
-                        "startOffset": 1895,
-                        "endColumn": 48,
-                        "endOffset": 1939
-                    }
+                    "file": "C:\\Users\\Tobi\\Documents\\GitHub\\DynLicht\\importedVersion\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 14,
                     "startColumn": 4,
-                    "startOffset": 725,
+                    "startOffset": 720,
                     "endColumn": 54,
-                    "endOffset": 775
+                    "endOffset": 770
                 },
                 "from": {
-                    "file": "C:\\Users\\Tobi\\Documents\\GitHub\\DynLicht\\importedVersion\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 41,
-                        "startColumn": 4,
-                        "startOffset": 1945,
-                        "endColumn": 54,
-                        "endOffset": 1995
-                    }
+                    "file": "C:\\Users\\Tobi\\Documents\\GitHub\\DynLicht\\importedVersion\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 15,
                     "startColumn": 4,
-                    "startOffset": 780,
+                    "startOffset": 775,
                     "endColumn": 42,
-                    "endOffset": 818
+                    "endOffset": 813
                 },
                 "from": {
-                    "file": "C:\\Users\\Tobi\\Documents\\GitHub\\DynLicht\\importedVersion\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 42,
-                        "startColumn": 4,
-                        "startOffset": 2001,
-                        "endColumn": 42,
-                        "endOffset": 2039
-                    }
+                    "file": "C:\\Users\\Tobi\\Documents\\GitHub\\DynLicht\\importedVersion\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 16,
                     "startColumn": 4,
-                    "startOffset": 823,
+                    "startOffset": 818,
                     "endColumn": 42,
-                    "endOffset": 861
+                    "endOffset": 856
                 },
                 "from": {
-                    "file": "C:\\Users\\Tobi\\Documents\\GitHub\\DynLicht\\importedVersion\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 43,
-                        "startColumn": 4,
-                        "startOffset": 2045,
-                        "endColumn": 42,
-                        "endOffset": 2083
-                    }
+                    "file": "C:\\Users\\Tobi\\Documents\\GitHub\\DynLicht\\importedVersion\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 17,
                     "startColumn": 4,
-                    "startOffset": 866,
+                    "startOffset": 861,
                     "endColumn": 43,
-                    "endOffset": 905
+                    "endOffset": 900
                 },
                 "from": {
-                    "file": "C:\\Users\\Tobi\\Documents\\GitHub\\DynLicht\\importedVersion\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 23,
-                        "startColumn": 4,
-                        "startOffset": 1104,
-                        "endColumn": 43,
-                        "endOffset": 1143
-                    }
+                    "file": "C:\\Users\\Tobi\\Documents\\GitHub\\DynLicht\\importedVersion\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 18,
                     "startColumn": 4,
-                    "startOffset": 910,
+                    "startOffset": 905,
                     "endColumn": 71,
-                    "endOffset": 977
+                    "endOffset": 972
                 },
                 "from": {
-                    "file": "C:\\Users\\Tobi\\Documents\\GitHub\\DynLicht\\importedVersion\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 31,
-                        "startColumn": 4,
-                        "startOffset": 1455,
-                        "endColumn": 71,
-                        "endOffset": 1522
-                    }
+                    "file": "C:\\Users\\Tobi\\Documents\\GitHub\\DynLicht\\importedVersion\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 19,
                     "startColumn": 4,
-                    "startOffset": 982,
+                    "startOffset": 977,
                     "endColumn": 63,
-                    "endOffset": 1041
+                    "endOffset": 1036
                 },
                 "from": {
-                    "file": "C:\\Users\\Tobi\\Documents\\GitHub\\DynLicht\\importedVersion\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 32,
-                        "startColumn": 4,
-                        "startOffset": 1528,
-                        "endColumn": 63,
-                        "endOffset": 1587
-                    }
+                    "file": "C:\\Users\\Tobi\\Documents\\GitHub\\DynLicht\\importedVersion\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 20,
                     "startColumn": 4,
-                    "startOffset": 1046,
+                    "startOffset": 1041,
                     "endColumn": 76,
-                    "endOffset": 1118
+                    "endOffset": 1113
                 },
                 "from": {
-                    "file": "C:\\Users\\Tobi\\Documents\\GitHub\\DynLicht\\importedVersion\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 33,
-                        "startColumn": 4,
-                        "startOffset": 1593,
-                        "endColumn": 76,
-                        "endOffset": 1665
-                    }
+                    "file": "C:\\Users\\Tobi\\Documents\\GitHub\\DynLicht\\importedVersion\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 21,
                     "startColumn": 4,
-                    "startOffset": 1123,
-                    "endColumn": 66,
-                    "endOffset": 1185
+                    "startOffset": 1118,
+                    "endColumn": 49,
+                    "endOffset": 1163
                 },
                 "from": {
                     "file": "C:\\Users\\Tobi\\Documents\\GitHub\\DynLicht\\importedVersion\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
-                        "startLine": 26,
+                        "startLine": 32,
                         "startColumn": 4,
-                        "startOffset": 1253,
-                        "endColumn": 66,
-                        "endOffset": 1315
+                        "startOffset": 1495,
+                        "endColumn": 49,
+                        "endOffset": 1540
                     }
                 }
             },
@@ -386,57 +260,36 @@
                 "to": {
                     "startLine": 22,
                     "startColumn": 4,
-                    "startOffset": 1190,
+                    "startOffset": 1168,
                     "endColumn": 73,
-                    "endOffset": 1259
+                    "endOffset": 1237
                 },
                 "from": {
-                    "file": "C:\\Users\\Tobi\\Documents\\GitHub\\DynLicht\\importedVersion\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 36,
-                        "startColumn": 4,
-                        "startOffset": 1732,
-                        "endColumn": 73,
-                        "endOffset": 1801
-                    }
+                    "file": "C:\\Users\\Tobi\\Documents\\GitHub\\DynLicht\\importedVersion\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 23,
                     "startColumn": 4,
-                    "startOffset": 1264,
+                    "startOffset": 1242,
                     "endColumn": 57,
-                    "endOffset": 1317
+                    "endOffset": 1295
                 },
                 "from": {
-                    "file": "C:\\Users\\Tobi\\Documents\\GitHub\\DynLicht\\importedVersion\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 35,
-                        "startColumn": 4,
-                        "startOffset": 1673,
-                        "endColumn": 57,
-                        "endOffset": 1726
-                    }
+                    "file": "C:\\Users\\Tobi\\Documents\\GitHub\\DynLicht\\importedVersion\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 24,
                     "startColumn": 4,
-                    "startOffset": 1322,
+                    "startOffset": 1300,
                     "endColumn": 59,
-                    "endOffset": 1377
+                    "endOffset": 1355
                 },
                 "from": {
-                    "file": "C:\\Users\\Tobi\\Documents\\GitHub\\DynLicht\\importedVersion\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 37,
-                        "startColumn": 4,
-                        "startOffset": 1807,
-                        "endColumn": 59,
-                        "endOffset": 1862
-                    }
+                    "file": "C:\\Users\\Tobi\\Documents\\GitHub\\DynLicht\\importedVersion\\app\\src\\main\\res\\values\\strings.xml"
                 }
             }
         ]
