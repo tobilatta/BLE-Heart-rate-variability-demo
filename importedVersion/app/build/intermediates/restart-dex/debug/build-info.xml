@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    api-level="22"
+    density="xhdpi"
+    format="8"
+    plugin-version="2.2.0"
+    timestamp="340138399378780"
+    token="1100317126517303611"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="6217" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="1296" />
+    <task
+        name="verifier"
+        duration="303" />
+
+    <artifact
+        location="C:\Users\Tobi\Documents\GitHub\DynLicht\importedVersion\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="340138399378780"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\Users\Tobi\Documents\GitHub\DynLicht\importedVersion\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

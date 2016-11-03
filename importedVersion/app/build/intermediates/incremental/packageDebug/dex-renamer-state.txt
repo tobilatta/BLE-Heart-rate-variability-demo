@@ -1,0 +1,7 @@
+#Thu Nov 03 14:08:31 CET 2016
+base.0=C\:\\Users\\Tobi\\Documents\\GitHub\\DynLicht\\importedVersion\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_2d1ec09f26ba0b7f37ce32fb7bddd13b8a254927
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Tobi\\Documents\\GitHub\\DynLicht\\importedVersion\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_53d560b78567c1683878a94de320481675f454b4\\classes.dex
+base.1=C\:\\Users\\Tobi\\Documents\\GitHub\\DynLicht\\importedVersion\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_53d560b78567c1683878a94de320481675f454b4
+file.0=C\:\\Users\\Tobi\\Documents\\GitHub\\DynLicht\\importedVersion\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_2d1ec09f26ba0b7f37ce32fb7bddd13b8a254927\\classes.dex

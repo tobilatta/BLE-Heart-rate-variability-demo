@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tobi\Documents\GitHub\DynLicht\importedVersion\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="41f880979f89a9aa49c7621b56e47b16929aa469">
+        <dex dex="C:\Users\Tobi\Documents\GitHub\DynLicht\importedVersion\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_2d1ec09f26ba0b7f37ce32fb7bddd13b8a254927\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tobi\Documents\GitHub\DynLicht\importedVersion\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="842277dd7b8340b81fdc8a6931465d0729811ce8">
+        <dex dex="C:\Users\Tobi\Documents\GitHub\DynLicht\importedVersion\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_53d560b78567c1683878a94de320481675f454b4\classes.dex" />
+    </item>
+
+</items>
