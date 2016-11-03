@@ -16,6 +16,7 @@
 
 package com.sample.hrv;
 
+//Hier ist ein Testkommentar für Paddy
 
 import android.app.Activity;
 import android.app.ListActivity;
