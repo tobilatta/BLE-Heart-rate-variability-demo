@@ -1,5 +1,9 @@
 [
     {
+        "merged": "C:\\Users\\Tobi\\Documents\\GitHub\\DynLicht\\importedVersion\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_layout.xml",
+        "source": "C:\\Users\\Tobi\\Documents\\GitHub\\DynLicht\\importedVersion\\app\\src\\main\\res\\layout\\main_layout.xml"
+    },
+    {
         "merged": "C:\\Users\\Tobi\\Documents\\GitHub\\DynLicht\\importedVersion\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_device.xml",
         "source": "C:\\Users\\Tobi\\Documents\\GitHub\\DynLicht\\importedVersion\\app\\src\\main\\res\\layout\\listitem_device.xml"
     },
