@@ -44,7 +44,7 @@ limitations under the License.
         android:label="@string/app_name"
         android:theme="@android:style/Theme.Holo.Light">
         <activity
-            android:name=".DeviceScanActivity"
+            android:name=".setupActivity"
             android:label="@string/app_name">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -52,6 +52,8 @@ limitations under the License.
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+        <activity android:name=".DeviceScanActivity" />
         <activity android:name=".DeviceServicesActivity" />
         <activity android:name=".demo.DemoHeartRateSensorActivity" />
 
@@ -59,7 +61,7 @@ limitations under the License.
             android:name=".BleService"
             android:enabled="true" />
 
-        <activity android:name=".setupActivity"></activity>
+
     </application>
 
 </manifest><!--

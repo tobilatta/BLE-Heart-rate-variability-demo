@@ -32,12 +32,12 @@ public class BleServicesAdapter extends BaseExpandableListAdapter {
 	private final static String TAG = BleServicesAdapter.class.getSimpleName();
 
 	public interface OnServiceItemClickListener {
-		public void onDemoClick(BluetoothGattService service);
+		void onDemoClick(BluetoothGattService service);
 
-		public void onServiceEnabled(BluetoothGattService service,
-				boolean enabled);
+		void onServiceEnabled(BluetoothGattService service,
+							  boolean enabled);
 
-		public void onServiceUpdated(BluetoothGattService service);
+		void onServiceUpdated(BluetoothGattService service);
 	}
 
 	private static final String MODE_READ = "R";
@@ -276,9 +276,7 @@ public class BleServicesAdapter extends BaseExpandableListAdapter {
 	}
 
 	private static boolean isDemoable(BleSensor<?> sensor) {
-		if (sensor instanceof BleHeartRateSensor)
-			return true;
-		return false;
+		return sensor instanceof BleHeartRateSensor;
 	}
 
 	private static String getModeString(int prop) {

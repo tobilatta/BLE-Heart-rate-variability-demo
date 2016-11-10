@@ -312,10 +312,7 @@ public class DemoHeartRateSensorActivity extends DemoSensorActivity {
 				return true;
 			}
 
-			if ((angle < 0) && (angle >= -90)) {
-				return true;
-			}
-			return false;
+			return (angle < 0) && (angle >= -90);
 		}
 
 		private boolean isYPositiveQuadrant(float angle) {
@@ -323,10 +320,7 @@ public class DemoHeartRateSensorActivity extends DemoSensorActivity {
 				return true;
 			}
 
-			if ((angle < 180) && (angle >= 90)) {
-				return true;
-			}
-			return false;
+			return (angle < 180) && (angle >= 90);
 		}
 
 		private float[] getAngleArrays() {

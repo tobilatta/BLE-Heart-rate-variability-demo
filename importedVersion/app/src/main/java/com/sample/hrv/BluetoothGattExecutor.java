@@ -18,7 +18,7 @@ import com.sample.hrv.sensor.BleSensor;
 public class BluetoothGattExecutor extends BluetoothGattCallback {
 
     public interface ServiceAction {
-        public static final ServiceAction NULL = new ServiceAction() {
+        ServiceAction NULL = new ServiceAction() {
             @Override
             public boolean execute(BluetoothGatt bluetoothGatt) {
                 // it is null action. do nothing.
@@ -32,7 +32,7 @@ public class BluetoothGattExecutor extends BluetoothGattCallback {
          * @return true - if action was executed instantly. false if action is waiting for
          *         feedback.
          */
-        public boolean execute(BluetoothGatt bluetoothGatt);
+        boolean execute(BluetoothGatt bluetoothGatt);
     }
 
     private final LinkedList<BluetoothGattExecutor.ServiceAction> queue = new LinkedList<ServiceAction>();
