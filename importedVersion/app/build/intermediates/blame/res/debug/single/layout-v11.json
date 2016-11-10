@@ -1,6 +1,11 @@
 [
     {
+<<<<<<< HEAD
         "merged": "C:\\Users\\Tobi\\Documents\\GitHub\\DynLicht\\importedVersion\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\abc_action_bar_decor.xml",
         "source": "C:\\Users\\Tobi\\Documents\\GitHub\\DynLicht\\importedVersion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout-v11\\abc_action_bar_decor.xml"
+=======
+        "merged": "C:\\Users\\Petrik K\\Documents\\GitHub\\DynLicht\\importedVersion\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\abc_action_bar_decor.xml",
+        "source": "C:\\Users\\Petrik K\\Documents\\GitHub\\DynLicht\\importedVersion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout-v11\\abc_action_bar_decor.xml"
+>>>>>>> origin/master
     }
 ]

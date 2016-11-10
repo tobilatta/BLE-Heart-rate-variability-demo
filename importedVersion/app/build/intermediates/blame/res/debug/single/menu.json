@@ -1,10 +1,18 @@
 [
     {
+        "merged": "C:\\Users\\Petrik K\\Documents\\GitHub\\DynLicht\\importedVersion\\app\\build\\intermediates\\res\\merged\\debug\\menu\\gatt_scan.xml",
+        "source": "C:\\Users\\Petrik K\\Documents\\GitHub\\DynLicht\\importedVersion\\app\\src\\main\\res\\menu\\gatt_scan.xml"
+    },
+    {
         "merged": "C:\\Users\\Tobi\\Documents\\GitHub\\DynLicht\\importedVersion\\app\\build\\intermediates\\res\\merged\\debug\\menu\\gatt_scan.xml",
         "source": "C:\\Users\\Tobi\\Documents\\GitHub\\DynLicht\\importedVersion\\app\\src\\main\\res\\menu\\gatt_scan.xml"
     },
     {
         "merged": "C:\\Users\\Tobi\\Documents\\GitHub\\DynLicht\\importedVersion\\app\\build\\intermediates\\res\\merged\\debug\\menu\\gatt_services.xml",
         "source": "C:\\Users\\Tobi\\Documents\\GitHub\\DynLicht\\importedVersion\\app\\src\\main\\res\\menu\\gatt_services.xml"
+    },
+    {
+        "merged": "C:\\Users\\Petrik K\\Documents\\GitHub\\DynLicht\\importedVersion\\app\\build\\intermediates\\res\\merged\\debug\\menu\\gatt_services.xml",
+        "source": "C:\\Users\\Petrik K\\Documents\\GitHub\\DynLicht\\importedVersion\\app\\src\\main\\res\\menu\\gatt_services.xml"
     }
 ]

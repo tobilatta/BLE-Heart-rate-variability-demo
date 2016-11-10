@@ -1,6 +1,10 @@
 [
     {
+<<<<<<< HEAD
         "outputFile": "C:\\Users\\Tobi\\Documents\\GitHub\\DynLicht\\importedVersion\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-xlarge-v4\\values-xlarge-v4.xml",
+=======
+        "outputFile": "C:\\Users\\Petrik K\\Documents\\GitHub\\DynLicht\\importedVersion\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-xlarge-v4\\values-xlarge-v4.xml",
+>>>>>>> origin/master
         "map": [
             {
                 "to": {
@@ -11,7 +15,11 @@
                     "endOffset": 127
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Tobi\\Documents\\GitHub\\DynLicht\\importedVersion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\values-xlarge\\values.xml",
+=======
+                    "file": "C:\\Users\\Petrik K\\Documents\\GitHub\\DynLicht\\importedVersion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\values-xlarge\\values.xml",
+>>>>>>> origin/master
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -30,7 +38,11 @@
                     "endOffset": 189
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Tobi\\Documents\\GitHub\\DynLicht\\importedVersion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\values-xlarge\\values.xml",
+=======
+                    "file": "C:\\Users\\Petrik K\\Documents\\GitHub\\DynLicht\\importedVersion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\values-xlarge\\values.xml",
+>>>>>>> origin/master
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -49,7 +61,11 @@
                     "endOffset": 257
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Tobi\\Documents\\GitHub\\DynLicht\\importedVersion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\values-xlarge\\values.xml",
+=======
+                    "file": "C:\\Users\\Petrik K\\Documents\\GitHub\\DynLicht\\importedVersion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\values-xlarge\\values.xml",
+>>>>>>> origin/master
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -68,7 +84,11 @@
                     "endOffset": 326
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Tobi\\Documents\\GitHub\\DynLicht\\importedVersion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\values-xlarge\\values.xml",
+=======
+                    "file": "C:\\Users\\Petrik K\\Documents\\GitHub\\DynLicht\\importedVersion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\values-xlarge\\values.xml",
+>>>>>>> origin/master
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -87,7 +107,11 @@
                     "endOffset": 391
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Tobi\\Documents\\GitHub\\DynLicht\\importedVersion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\values-xlarge\\values.xml",
+=======
+                    "file": "C:\\Users\\Petrik K\\Documents\\GitHub\\DynLicht\\importedVersion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\values-xlarge\\values.xml",
+>>>>>>> origin/master
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -106,7 +130,11 @@
                     "endOffset": 457
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Tobi\\Documents\\GitHub\\DynLicht\\importedVersion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\values-xlarge\\values.xml",
+=======
+                    "file": "C:\\Users\\Petrik K\\Documents\\GitHub\\DynLicht\\importedVersion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\values-xlarge\\values.xml",
+>>>>>>> origin/master
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -125,7 +153,11 @@
                     "endOffset": 519
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Tobi\\Documents\\GitHub\\DynLicht\\importedVersion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\values-xlarge\\values.xml",
+=======
+                    "file": "C:\\Users\\Petrik K\\Documents\\GitHub\\DynLicht\\importedVersion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\values-xlarge\\values.xml",
+>>>>>>> origin/master
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -144,7 +176,11 @@
                     "endOffset": 579
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Tobi\\Documents\\GitHub\\DynLicht\\importedVersion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\values-xlarge\\values.xml",
+=======
+                    "file": "C:\\Users\\Petrik K\\Documents\\GitHub\\DynLicht\\importedVersion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\values-xlarge\\values.xml",
+>>>>>>> origin/master
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -163,7 +199,11 @@
                     "endOffset": 643
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Tobi\\Documents\\GitHub\\DynLicht\\importedVersion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\values-xlarge\\values.xml",
+=======
+                    "file": "C:\\Users\\Petrik K\\Documents\\GitHub\\DynLicht\\importedVersion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\values-xlarge\\values.xml",
+>>>>>>> origin/master
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -182,7 +222,11 @@
                     "endOffset": 698
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Tobi\\Documents\\GitHub\\DynLicht\\importedVersion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\values-xlarge\\values.xml",
+=======
+                    "file": "C:\\Users\\Petrik K\\Documents\\GitHub\\DynLicht\\importedVersion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\values-xlarge\\values.xml",
+>>>>>>> origin/master
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
