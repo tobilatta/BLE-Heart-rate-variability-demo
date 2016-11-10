@@ -4,7 +4,7 @@
     density="xhdpi"
     format="8"
     plugin-version="2.2.0"
-    timestamp="342620423039958"
+    timestamp="928857021437719"
     token="1100317126517303611"
     verifier="FULL_BUILD_REQUESTED" >
 
@@ -26,7 +26,7 @@
         type="MAIN" />
 
     <build
-        timestamp="342620423039958"
+        timestamp="928857021437719"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="C:\Users\Tobi\Documents\GitHub\DynLicht\importedVersion\app\build\outputs\apk\app-debug.apk"
